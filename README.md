@@ -1,4 +1,4 @@
-### Hi stranger 👋👋👋
+### Hi Stranger 👋👋👋
 
 
 ## I'm a Frontend developer looking for jobs!
