@@ -1,4 +1,4 @@
-### Howdy Stranger 👋👋👋
+### Howdy stranger 👋
 
 
 ## I'm a Frontend developer looking for jobs!
@@ -7,7 +7,7 @@
 - 📚 Currently learning TypeScript, along with Angular.js and Node.js
 - 🎵 This is my latest project: [Spotify Master][spotify]
 - 👯 Looking to contribute more to Open Source projects
-- ♟️ Been practicing Chess recently, it was fun~
+- ♟️ Been playing Chess recently, it was fun~
 
 
 [spotify]: https://musicmasters.herokuapp.com/
