@@ -1,7 +1,7 @@
 ### Howdy stranger 👋
 
 
-## I'm a Frontend developer looking for jobs!
+## I'm a Front End developer looking for jobs!
 
 - 😃 Familiar with HTML, CSS, JavaScript, ReactJS, NextJS and Redux
 - 📚 Currently learning TypeScript, along with AngularJS and NodeJS
