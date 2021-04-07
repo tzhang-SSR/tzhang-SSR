@@ -10,4 +10,4 @@
 - ♟️ Been playing Chess recently, it was fun~
 
 
-[spotify]: https://musicmasters.herokuapp.com/
+[spotify]: https://playlistpro-spotify.herokuapp.com/
