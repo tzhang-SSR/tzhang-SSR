@@ -10,4 +10,4 @@
 - ♟️ Been playing Chess recently, it was fun~
 
 
-[ytplaylist]: https://playlistpro-spotify.herokuapp.com/](https://tzhang-ssr.github.io/youtube-playlist-upgrade/signin
+[ytplaylist]: https://tzhang-ssr.github.io/youtube-playlist-upgrade/signin
